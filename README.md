@@ -18,4 +18,4 @@ To merge the color theme into your current settings copy the [`alabaster`](https
 
 ## License
 
-[MIT License](./LICENSE.txt)
+[MIT License](./LICENSE)
