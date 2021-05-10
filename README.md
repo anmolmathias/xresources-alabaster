@@ -2,6 +2,8 @@
 
 A light color scheme for X11 based applications like xterm and (u)rxvt.
 
+![Colortest](./src/assets/colorTest.png)
+
 Based on the [Alabaster Sublime Scheme](https://github.com/tonsky/sublime-scheme-alabaster) by Nikita Prokopov
 
 
