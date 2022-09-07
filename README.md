@@ -13,10 +13,10 @@ Based on the [Alabaster Sublime Scheme](https://github.com/tonsky/sublime-scheme
 Copy the contents of the [`alabaster`](https://github.com/anmolmathias/xresources-alabaster/blob/main/src/alabaster) file into the `~/.Xresources` or `~/.Xdefaults` file and reload the settings with `xrdb`.
 
 ### Via `#include`
-Copy the [`alabaster`](https://github.com/anmolmathias/xresources-alabaster/blob/main/src/alabaster) file to any place and import it via `#include "/path/to/nord"`.
+Copy the [`alabaster`](https://github.com/anmolmathias/xresources-alabaster/blob/main/src/alabaster) file to any place and import it via `#include "/path/to/alabaster"`.
 
 ### Via `merge`
-To merge the color theme into your current settings copy the [`alabaster`](https://github.com/anmolmathias/xresources-alabaster/blob/main/src/alabaster) file to any place and run `xrdb -merge path/to/nord`.
+To merge the color theme into your current settings copy the [`alabaster`](https://github.com/anmolmathias/xresources-alabaster/blob/main/src/alabaster) file to any place and run `xrdb -merge path/to/alabaster`.
 
 ## License
 
